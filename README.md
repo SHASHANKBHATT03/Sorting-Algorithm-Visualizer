@@ -35,9 +35,9 @@ A simple and beginner-friendly way to learn sorting.
 
 ---
 Sorting-Algorithm-Visualizer/
-├── Sorting_Visualizer.py   # Main visualizer script
-├── requirements.txt        # Project dependencies
-└── README.md               # Project documentation
+-├── Sorting_Visualizer.py   # Main visualizer script
+-├── requirements.txt        # Project dependencies
+-└── README.md               # Project documentation
 
 
 ##  How to Run
