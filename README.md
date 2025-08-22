@@ -31,14 +31,8 @@ A simple and beginner-friendly way to learn sorting.
 - `H` → Heap Sort  
 - `X` → Radix Sort  
 - `↑` → Increase speed  
-- `↓` → Decrease speed  
-
----
-Sorting-Algorithm-Visualizer/
--├── Sorting_Visualizer.py   # Main visualizer script
--├── requirements.txt        # Project dependencies
--└── README.md               # Project documentation
-
+- `↓` → Decrease speed
+- 
 ---
 
 ##  How to Run
@@ -47,6 +41,21 @@ git clone https://github.com/SHASHANKBHATT03/Sorting-Algorithm-Visualizer.git
 cd Sorting-Algorithm-Visualizer
 pip install -r requirements.txt
 python Sorting_Visualizer.py
+```
+---
+## File Structure 
+Sorting-Algorithm-Visualizer/
+-├── Sorting_Visualizer.py   # Main visualizer script
+-├── requirements.txt        # Project dependencies
+-└── README.md               # Project documentation
 
+---
+# Demo Video
+
+
+
+
+
+https://github.com/user-attachments/assets/787dd895-21f3-448d-b5d0-0692e3e42426
 
 
