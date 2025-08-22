@@ -39,6 +39,7 @@ Sorting-Algorithm-Visualizer/
 -├── requirements.txt        # Project dependencies
 -└── README.md               # Project documentation
 
+---
 
 ##  How to Run
 ```bash
